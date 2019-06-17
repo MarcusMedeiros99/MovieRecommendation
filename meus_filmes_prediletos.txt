@@ -1,0 +1,54 @@
+nome: X-Men: Fênix Negra
+ano: 2019
+gênero: Aventura, Ficção científica
+sinopse: 1992. Os X-Men são considerados heróis nacionais e o professor Charles Xavier (James McAvoy) agora dispõe de contato direto com o presidente dos Estados Unidos. Quando uma missão espacial enfrenta problemas, o governo convoca a equipe mutante para ajudá-lo. Liderado por Mística (Jennifer Lawrence), os X-Men partem rumo ao espaço em uma equipe composta por Fera (Nicholas Hoult), Jean Grey (Sophie Turner), Ciclope (Tye Sheridan), Tempestade (Alexandra Shipp), Mercúrio (Evan Peters) e Noturno (Kodi Smit-McPhee). Ao tentar resgatar o comandante da missão, Jean Grey fica presa no ônibus espacial e é atingida por uma poderosa força cósmica, que acaba absorvida em seu corpo. Após ser resgatada e retornar à Terra, aos poucos ela percebe que há algo bem estranho dentro de si, o que desperta lembranças de um passado sombrio e, também, o interesse de seres extra-terrestres.
+
+nome: Homem-Aranha: Longe de Casa
+ano: 2019
+gênero: Ação
+sinopse:  Peter Parker (Tom Holland) está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury (Samuel L. Jackson). Convocado para mais uma missão heróica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio (Jake Gyllenhaal).
+
+nome: Juntos para sempre
+ano: 2019
+gênero: Família, Comédia, Drama
+sinopse: Depois de muitas vidas e aprendizados, Bailey vive tranquilamente com Hanna (Marg Helgenberger). Um dia, Gloria (Betty Gilpin), uma aspirante a cantora, aparece sem avisar na vida dos dois com uma notícia surpreendente: Hanna tem uma neta, chamada Clarity. Com o tempo, o cãozinho percebe como a menina é negligenciada pela mãe e decide que seu objetivo nesta vida é cuidar dela e protegê-la, incondicionalmente. 
+
+nome: Patrulha Canina: Super Filhotes
+ano: 2019
+gênero: Animação
+sinopse:  Depois que um misterioso meteoro cai na Baía da Aventura, Chase, Marshall, Skye, Ryder e Rubble correm para tentar preservar o local, mas acabam passando por uma experiência muito mais louca. Ao presenciarem uma estranha energia verde emanando da cratera, eles ganham poderes. 
+
+nome: Homem-Aranha no aranhaverso
+ano: 2019
+gênero: Animação, Ação, Família
+sinopse: Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras versões do Homem-Aranha. 
+
+nome: Han Solo: Uma História Star Wars
+ano: 2018
+gênero: Ficção científica, Fantasia
+sinopse: Em dificuldade financeira, o piloto Han Solo (Alden Ehrenreich) e sua namorada Qi'ra (Emilia Clarke) buscam algum trabalho. Eles conseguem pôr as mãos em uma substância valiosa, mas perigosa, que acaba levando à perseguição do Império e à separação entre os dois. Preocupado, Han usa toda a sua esperteza para se infiltrar num plano arriscado, mas que pode render a oportunidade de voltar à terra natal e reencontrar a sua amada. Caso ele falhe, vai ter que prestar contas ao perigoso Dryden Vos (Paul Bettany). No caminho, o piloto encontra parceiros importantes, como Chewbacca (Joonas Suotamo) e Lando Calrissian (Donald Glover), o proprietário original da Millennium Falcon. 
+
+nome: A Hora do Pesadelo
+ano: 2010
+gênero: Terror
+sinopse: Um grupo de adolescentes de um subúrbio americano tem um sonho em comum, envolvendo Freddy Krueger (Jackie Earle Haley). Ele é um assassino desfigurado, que sempre os persegue em seus sonhos. Enquanto eles estão acordados não há risco algum, mas quando adormecem é a chance que Krueger tem para dominá-los. 
+
+nome: Dois caras legais
+ano: 2016
+gênero: Comédia, Policial
+sinopse: Na Los Angeles dos anos 1970, a filha de uma funcionária do Departamento de Justiça dos Estados Unidos é sequestrada e ela decide contratar Jackson Healy (Russell Crowe), brutamontes violento e ex-alcoólatra, para investigar o caso. O trabalho revela-se mais complicado do que o esperado e ele decide contar com a ajuda a um medroso e atrapalhado detetive particular (Ryan Gosling). 
+
+nome: Amor a toda prova
+ano: 2011
+gênero: Comédia, Romance
+sinopse: Cal Weaver (Steve Carell) tem quarenta e poucos anos e leva uma vida perfeita, com um bom emprego, filhos e um casamento com a namorada do colégio, Emily (Julianne Moore). Até que, ao descobrir que Emily o está traindo e quer o divórcio, sua vida desaba por completo. Forçado a voltar ao mundo dos solteiros, ele enfrenta as dificuldades habituais de quem não sabe mais como se portar para se aproximar de uma mulher. É quando entra em cena Jacob Palmer (Ryan Gosling), um amigo que passa a lhe dar algumas dicas.
+
+nome: Tudo por um Furo
+ano: 2014
+gênero: Comédia
+sinopse: Sem emprego e separado da mulher Veronica (Christina Applegate), Ron Burgundy (Will Ferrell) trabalha como apresentador de shows no Sea World. Convidado para trabalhar como âncora em uma emissora que exibe notícias por 24 horas, ele decide reunir sua equipe. Brick (Steve Carell), Brian (Paul Rudd) e Champ (David Koechner) aceitam o convite de Ron e o quarteto parte para Nova York para integrar uma rede importante e competir num nível nacional. 
+
+nome: O Hobbit: Uma Jornada Inesperada
+ano: 2012
+gênero: Fantasia, Aventura
+sinopse: Bilbo Bolseiro (Martin Freeman) vive uma vida pacata no condado, como a maioria dos hobbits. Um dia, aparece em sua porta o mago Gandalf, o cinzento (Ian McKellen), que lhe promete uma aventura como nunca antes vista. Na companhia de vários anões, Bilbo e Gandalf iniciam sua jornada inesperada pela Terra Média. Eles têm por objetivo libertar o reino de Erebor, conquistado há tempos pelo dragão Smaug e que antes pertencia aos anões. No meio do caminho encontram elfos, trolls e, é claro, a criatura Gollum (Andy Serkis) e seu precioso anel. 
